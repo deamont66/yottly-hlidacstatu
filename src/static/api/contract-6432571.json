@@ -1,0 +1,120 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968623",
+    "idVerze": "6432571"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 87475.1,
+  "hodnotaVcetneDph": 96403.2,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Potvrzenka_159805891-18.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "a8f9dca481ab67962be01173cdd03f1b1644f733cfc633bc209c7f60c8aca58f"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700055/Potvrzenka_159805891-18.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                      Potvrzení objednávky                                  3RWYU]HQND\u0003þ\u0011\u0003159805891-18\r\n\r\n                                                                     þ\u0011\u0003159805891-18\r\n\r\nDodavatel: B.Braun Medical s.r.o. ,ý\u000348586285\r\n\r\nDoklad: 159805891-18  Datum: 16.08.2018                              Doklad FNO: P12316-ust\r\n\r\n3ĜHGPČW\u001d\u00031iNXS\u0003+9/3\u000f\u0003,9/3\u000f\u00033=7\u0003D\u0003GRSOĖNĤ\u0003YêåLY\\\r\n\r\nCena celkem bez DPH                              87 475,10 CZK\r\n\r\nCena celkem s DPH                                96 403,20 CZK\r\n\r\nSeznam položek (10x)                                                 Množství\r\nNázev položky                                                          60,0 bal\r\nAQUA PRO INJECTIONE INJ.20X10ML(PLA 100% PAR LQF 20X10ML AMP LDPE      30,0 bal\r\nCALCIUM GLUCONICUM 10% 20X10 ML BRA 10% INJ SOL 20X10ML                40,0 bal\r\nKALIUMCHLORID 7.45% BRAUN INF 20X20 74,5MG/ML INF CNC SOL 20X20ML      30,0 bal\r\nMETRONIDAZOL 500MG 10X100ML 5MG/ML INF SOL BBRAUN                      30,0 bal\r\nNATR. CHLORID 0.9% 20 X 20 MLPLAST BRAUN 9MG/ML INJ SOL 20X20ML I          60,0\r\nNATR.CHLOR.ISOT INJ 20X10ML BRAUN 9MG/ML INJ SOL 20X10ML I              20,0 ks\r\n3521725$/\u0003\u0015\u0018\u00130/\u00031$\u000326(75(1,\u00036/,=1,&\u00031$\u00032â(7ě(1Ë\u00036/,=1,&(\u000f\u0015\u0018\u00130/             10,0\r\nPROPOFOL-LIPURO 1 % (10MG/ML) 10X50 10MG/ML INJ/INF EML 10X50ML         60,0 ks\r\nPROPOFOL-LIPURO 1 % (10MG/ML) inj 5x20ml 10MG/ML INJ/INF EML 5X20ML        20,0\r\nPROPOFOL-LIPURO 1 % (10MG/ML)10X100 10MG/ML INJ/INF EML 10X100ML\r\n\r\n                                                                       PhMr. Marta Kollárová\r\n\r\n                                                                     .............................................................\r\n\r\n                                                                                   LÉKÁRNA FNO\r\n                                                                     17. listopadu 1790, OSTRAVA-Poruba\r\n\r\n                                                                                   Tel. 597 374 423\r\n\r\nStr. 1 / 1                                                                  Digitally signed by Mgr.\r\n                                                                            Marta Kollárová\r\n                                                                            Date: 2018.08.16\r\n                                                                            15:05:44 +02:00\r\n\r\n                                                                            Fakultní nemocnice\r\n                                                                            Ostrava - Lékárna\r\n\r\n                                                                     16.8.2018 15:05:41\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:55.5823509+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 2680,
+      "WordCount": 176,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-16T17:36:56.0879834+02:00",
+  "CalculatedPriceWithVATinCZK": 96403.2,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [
+    {
+      "IssueTypeId": 107,
+      "Created": "2018-08-16T17:36:55.5823509+02:00",
+      "Title": "Neplatná cena",
+      "TextDescription": "Rozdíl ceny s DPH a bez DPH neodpovídá žádné sazbě DPH.",
+      "Public": true,
+      "Permanent": false,
+      "Importance": -1,
+      "AffectedParams": [
+        {
+          "Key": "hodnotaVcetneDph",
+          "Value": "96403,2"
+        },
+        {
+          "Key": "hodnotaBezDph",
+          "Value": "87475,1"
+        }
+      ],
+      "AnalyzerType": "HlidacSmluv.Plugin.IssueAnalyzers.Price"
+    }
+  ],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:55.535475+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "8tqqbm8"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:55.5823509+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": -1.0,
+  "Id": "6432571",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432571",
+  "casZverejneni": "2018-08-16T17:30:24+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "8tqqbm8",
+      "nazev": "B.Braun Medical s.r.o.",
+      "ico": "48586285",
+      "adresa": null,
+      "utvar": null
+    }
+  ],
+  "predmet": "Nákup HVLP, IVLP, PZT a doplňků výživy",
+  "datumUzavreni": "2018-08-16T00:00:00",
+  "cisloSmlouvy": "159805891-18",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}

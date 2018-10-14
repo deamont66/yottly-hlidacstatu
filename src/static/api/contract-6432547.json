@@ -1,0 +1,131 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968599",
+    "idVerze": "6432547"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 71731.2,
+  "hodnotaVcetneDph": 86794.75,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "VO-2018-102-000099.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "84c15ef570a78929431287a5d0147b2b63da1bda3c635e0605726eadf267cbab"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700027/VO-2018-102-000099.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                                                 Registr smluv                                                List č. 1 / 1\r\n                                             VO-2018-102-000099\r\n                                                                                                     Zkrácené číslo objednávky\r\n                                                          Dodavatel\r\n                                                                                                             VO18102-0099\r\n                                                                 CHRISTEYNS s.r.o.\r\nOdběratel\r\n                                                                 Odry, Vítovská 453/7\r\nNemocnice Pardubického kraje, a.s.                               742 35 Odry\r\n\r\nPardubičky, Kyjevská 44\r\n\r\n532 03 Pardubice\r\nIČO 27520536 DIČ CZ27520536\r\n\r\nSpisová značka\r\nB 2629, Krajský soud v Hradci Králové\r\n\r\n                                             IČO 26797283                                            DIČ CZ26797283\r\n\r\nPříjemce - místo dodání\r\n\r\nNemocnice Pardubického kraje, a.s.\r\n\r\nPardubičky, Kyjevská 44\r\n\r\n530 03 Pardubice\r\n\r\nKód akce                                                   Požadované datum dodání                   9.8.2018\r\nZpůsob dopravy                                             Datum vytvoření\r\nZpůsob úhrady\r\nDodací podmínky             Bez DPH\r\nCeny jsou uváděny\r\n\r\nPrací prostředky pro prádelnu PKN\r\n\r\nPoř. Kód zboží     Název zboží               Objednáno MJ  Objednáno Skladová Identifikace VZ\r\n                                               výsledné      výsledné MJ\r\n                                                                    3,00 ks\r\n10                 Power Perfect                                    1,00 ks\r\n                                                                    6,00 ks\r\n20                 Neutrapur Forte                                  1,00 ks\r\n                                                                    1,00 ks\r\n30                 Lunosept Concentrate                             2,00 ks\r\n                                                                    2,00 ks\r\n40                 Mulan Citro                                      2,00 ks\r\n\r\n50                 Smart Albitex                                                        71 731,20\r\n\r\n60                 Kyselina šťavelová\r\n\r\n70                 Sultraspot\r\n\r\n80                 OMD 160\r\n\r\nCena celkem bez                                                                                                      CZK\r\n\r\n                Razítko a podpis dodavatele                Razítko a podpis odběratele\r\n\r\nNa faktuře uveďte číslo objednávky (ve výjimečných případech lze použít Zkrácené číslo objednávky).\r\n\r\nTento doklad byl vytištěn informačním systémem QI 94.2, www.dcconcept.com\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:53.6839312+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 2817,
+      "WordCount": 176,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    },
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "VO-2018-102-000099.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "84c15ef570a78929431287a5d0147b2b63da1bda3c635e0605726eadf267cbab"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700031/VO-2018-102-000099.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                                                 Registr smluv                                                List č. 1 / 1\r\n                                             VO-2018-102-000099\r\n                                                                                                     Zkrácené číslo objednávky\r\n                                                          Dodavatel\r\n                                                                                                             VO18102-0099\r\n                                                                 CHRISTEYNS s.r.o.\r\nOdběratel\r\n                                                                 Odry, Vítovská 453/7\r\nNemocnice Pardubického kraje, a.s.                               742 35 Odry\r\n\r\nPardubičky, Kyjevská 44\r\n\r\n532 03 Pardubice\r\nIČO 27520536 DIČ CZ27520536\r\n\r\nSpisová značka\r\nB 2629, Krajský soud v Hradci Králové\r\n\r\n                                             IČO 26797283                                            DIČ CZ26797283\r\n\r\nPříjemce - místo dodání\r\n\r\nNemocnice Pardubického kraje, a.s.\r\n\r\nPardubičky, Kyjevská 44\r\n\r\n530 03 Pardubice\r\n\r\nKód akce                                                   Požadované datum dodání                   9.8.2018\r\nZpůsob dopravy                                             Datum vytvoření\r\nZpůsob úhrady\r\nDodací podmínky             Bez DPH\r\nCeny jsou uváděny\r\n\r\nPrací prostředky pro prádelnu PKN\r\n\r\nPoř. Kód zboží     Název zboží               Objednáno MJ  Objednáno Skladová Identifikace VZ\r\n                                               výsledné      výsledné MJ\r\n                                                                    3,00 ks\r\n10                 Power Perfect                                    1,00 ks\r\n                                                                    6,00 ks\r\n20                 Neutrapur Forte                                  1,00 ks\r\n                                                                    1,00 ks\r\n30                 Lunosept Concentrate                             2,00 ks\r\n                                                                    2,00 ks\r\n40                 Mulan Citro                                      2,00 ks\r\n\r\n50                 Smart Albitex                                                        71 731,20\r\n\r\n60                 Kyselina šťavelová\r\n\r\n70                 Sultraspot\r\n\r\n80                 OMD 160\r\n\r\nCena celkem bez                                                                                                      CZK\r\n\r\n                Razítko a podpis dodavatele                Razítko a podpis odběratele\r\n\r\nNa faktuře uveďte číslo objednávky (ve výjimečných případech lze použít Zkrácené číslo objednávky).\r\n\r\nTento doklad byl vytištěn informačním systémem QI 94.2, www.dcconcept.com\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:53.7151818+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 2817,
+      "WordCount": 176,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-16T17:36:54.3542004+02:00",
+  "CalculatedPriceWithVATinCZK": 86794.75,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:53.6683038+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "dwzvrte"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:53.6839312+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    },
+    {
+      "Created": "2018-08-16T17:36:53.7308065+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[1].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": 0.0,
+  "Id": "6432547",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432547",
+  "casZverejneni": "2018-08-16T17:30:22+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "dwzvrte",
+      "nazev": "CHRISTEYNS s.r.o.",
+      "ico": "26797283",
+      "adresa": "Odry, Vítovská 453/7,742 35,Odry",
+      "utvar": null
+    }
+  ],
+  "predmet": "VO-2018-102-000099",
+  "datumUzavreni": "2018-08-09T00:00:00",
+  "cisloSmlouvy": "VO-2018-102-000099",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}

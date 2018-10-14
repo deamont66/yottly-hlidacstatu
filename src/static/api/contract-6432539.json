@@ -1,0 +1,99 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968591",
+    "idVerze": "6432539"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 323249.32,
+  "hodnotaVcetneDph": 355574.25,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "VOL-2018-150-007457.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "e1d47da5e1c748b7fc854a82463a45898689cc4f5248e14e7019772cf1a0a36d"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700019/VOL-2018-150-007457.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                                                  Registr smluv                                               List č. 1 / 1\r\n                                             VOL-2018-150-007457\r\n                                                                                                     Zkrácené číslo objednávky\r\n\r\n                                                                                                           VOL18150-7457\r\n\r\nOdběratel                                                 Dodavatel\r\n\r\nNemocnice Pardubického kraje, a.s.                        PROMEDICA PRAHA GROUP, a.s.\r\n\r\nPardubičky, Kyjevská 44                                   Bubeneč, Juárezova 1071/17\r\n                                                          160 00 Praha\r\n532 03 Pardubice\r\nIČO 27520536 DIČ CZ27520536\r\n\r\nSpisová značka\r\nB 2629, Krajský soud v Hradci Králové\r\n\r\n                                                          IČO 25099019                               DIČ CZ25099019\r\n\r\nPříjemce - místo dodání\r\n\r\nNPK Pardubická nemocnice a.s.,\r\n\r\nKyjevská 44\r\n\r\n532 03 Pardubice\r\n\r\nKód akce                                                                Požadované datum dodání      15.8.2018 8:31:07\r\nZpůsob dopravy                                                          Datum vytvoření              Mediox (NA-\r\nZpůsob úhrady                                                           Akceptováno systémem\r\nDodací podmínky\r\nCeny jsou uváděny  Bez DPH\r\n\r\nPoř. Kód zboží     Název zboží                            Objednáno MJ  Objednáno Skladová Identifikace VZ\r\n                                                            výsledné      výsledné MJ\r\n                                                                                 8,00 ks\r\n                   90356 / HUMIRA 40MG INJ SOL 2X0,4ML I                        25,00 ks\r\n                   79925 / REMSIMA 100MG INF PLV CSL 1\r\n                                                                                                   323 249,32\r\nCena celkem bez                                                                                                         CZK\r\n\r\n                Razítko a podpis dodavatele                             Razítko a podpis odběratele\r\n\r\nNa faktuře uveďte číslo objednávky (ve výjimečných případech lze použít Zkrácené číslo objednávky).\r\n\r\nTento doklad byl vytištěn informačním systémem QI 94.2, www.dcconcept.com\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:53.3538355+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 2409,
+      "WordCount": 158,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-16T17:36:54.3385754+02:00",
+  "CalculatedPriceWithVATinCZK": 355574.25,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:53.3225859+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "k6sfuej"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:53.3538355+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": 0.0,
+  "Id": "6432539",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432539",
+  "casZverejneni": "2018-08-16T17:30:22+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "k6sfuej",
+      "nazev": "PROMEDICA PRAHA GROUP, a.s.",
+      "ico": "25099019",
+      "adresa": "Bubeneč, Juárezova 1071/17,160 00,Praha",
+      "utvar": null
+    }
+  ],
+  "predmet": "VOL-2018-150-007457",
+  "datumUzavreni": "2018-08-15T00:00:00",
+  "cisloSmlouvy": "VOL-2018-150-007457",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}

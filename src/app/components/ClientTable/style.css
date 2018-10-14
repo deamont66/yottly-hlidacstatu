@@ -1,0 +1,47 @@
+.clientTableContainer {
+  max-height: 400px;
+  overflow-y: scroll;
+}
+
+.clientTable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.clientTable :global(.number) {
+  text-align: center;
+}
+
+.clientTable thead {
+  box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+  -o-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+  -ms-box-shadow: 0 5px 20px 0px rgba(0, 0, 0, 0.1);
+}
+
+.clientTable thead th {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  text-align: left;
+}
+
+.clientTable thead th:first-child {
+  padding-left: 10px;
+}
+
+.clientTable tbody tr {
+  border-bottom: 1px solid #f2f2f2;
+}
+
+.clientTable tbody td {
+  padding-top: 16px;
+  padding-bottom: 16px;
+  color: #808080;
+  font-size: 15px;
+  line-height: 1.4;
+}
+
+.clientTable tbody td:first-child {
+  padding-left: 10px;
+}

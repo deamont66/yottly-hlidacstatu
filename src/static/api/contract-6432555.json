@@ -1,0 +1,99 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968607",
+    "idVerze": "6432555"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 53255.9,
+  "hodnotaVcetneDph": 61244.29,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "VOL-2018-151-006012.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "891df9d2d2f890dc193ebd6dcfc961de8dcccd68f25e5ccc515766a73c23201f"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700039/VOL-2018-151-006012.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                                                  Registr smluv                                               List č. 1 / 1\r\n                                             VOL-2018-151-006012\r\n                                                                                                     Zkrácené číslo objednávky\r\n\r\n                                                                                                           VOL18151-6012\r\n\r\nOdběratel                                              Dodavatel\r\n\r\nNemocnice Pardubického kraje, a.s.                         ConvaTec Česká republika s.r.o.\r\n\r\nPardubičky, Kyjevská 44                                Nové Město, Olivova 2096/4\r\n                                                       110 00 Praha\r\n532 03 Pardubice\r\nIČO 27520536 DIČ CZ27520536\r\n\r\nSpisová značka\r\nB 2629, Krajský soud v Hradci Králové\r\n\r\n                                                       IČO 28241711                                  DIČ CZ28241711\r\n\r\nPříjemce - místo dodání\r\n\r\nNPK Pardubická nemocnice a.s.,\r\n\r\nKyjevská 44\r\n\r\n532 03 Pardubice\r\n\r\nKód akce                                                             Požadované datum dodání         15.8.2018 11:37:43\r\nZpůsob dopravy                                                       Datum vytvoření                 Mediox (NA-\r\nZpůsob úhrady                                                        Akceptováno systémem\r\nDodací podmínky\r\nCeny jsou uváděny  Bez DPH\r\n\r\nPoř. Kód zboží     Název zboží                         Objednáno MJ  Objednáno Skladová Identifikace VZ\r\n                                                         výsledné      výsledné MJ\r\n                                                                              9,00 ks\r\n                   324649 / SACEK 2D VYPUSTNY NATURA+                         9,00 ks\r\n                   INVISICLOSE BEZOVY, 45 MM, STAN                           50,00 ks\r\n                                                                             12,00 ks\r\n                   328939 / PODLOZKA 2D NATURA CONVEX                        24,00 ks\r\n                   TVAROVATELNA 45(22-33)MM,5KS                              11,00 ks\r\n                                                                              1,00 ks\r\n                   186864 / PASTA VYROVNAVACI\r\n                   STOMAHESIVE 60G,1KS                                                            53 255,90\r\n\r\n                   232979 / PENA TELOVA ALOE VESTA\r\n                   236ML,PLASTOVA NADO\r\n\r\n                   306297 / FILM OCHRANNY CONVATEC\r\n                   SILESSE SPREJ 50ML\r\n\r\n                   306331 / ODSTRANOVAC MEDICINSKYCH\r\n                   ADHEZIV CONVATEC NILTAC SPRAY 50ML\r\n\r\n                   306331 / ODSTRANOVAC MEDICINSKYCH\r\n                   ADHEZIV CONVATEC NILTAC SPRAY 50ML\r\n\r\nCena celkem bez                                                                                                          CZK\r\n\r\n                Razítko a podpis dodavatele                          Razítko a podpis odběratele\r\n\r\nNa faktuře uveďte číslo objednávky (ve výjimečných případech lze použít Zkrácené číslo objednávky).\r\n\r\nTento doklad byl vytištěn informačním systémem QI 94.2, www.dcconcept.com\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:39.0711893+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 3224,
+      "WordCount": 212,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-16T17:36:52.1998975+02:00",
+  "CalculatedPriceWithVATinCZK": 61244.29,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:39.0602287+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "5ngwkwm"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:39.0711893+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": 0.0,
+  "Id": "6432555",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432555",
+  "casZverejneni": "2018-08-16T17:30:23+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "eiefkcs",
+    "nazev": "Nemocnice Pardubického kraje, a.s.",
+    "ico": "27520536",
+    "adresa": "Pardubičky, Kyjevská 44,532 03,Pardubice,CZ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "5ngwkwm",
+      "nazev": "ConvaTec   Česká republika s.r.o.",
+      "ico": "28241711",
+      "adresa": "Nové Město, Olivova 2096/4,110 00,Praha",
+      "utvar": null
+    }
+  ],
+  "predmet": "VOL-2018-151-006012",
+  "datumUzavreni": "2018-08-15T00:00:00",
+  "cisloSmlouvy": "VOL-2018-151-006012",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}

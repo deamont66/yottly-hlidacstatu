@@ -1,0 +1,120 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968619",
+    "idVerze": "6432567"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 66899.69,
+  "hodnotaVcetneDph": 73729.71,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Potvrzenka_5180284360-18.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "4116d006e6b60451c6906e6be48c4ca644dab3f49b3c4a3a953bedce7ec6dd5f"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700051/Potvrzenka_5180284360-18.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                       Potvrzení objednávky                                    3RWYU]HQND\u0003þ\u0011\u00035180284360-18\r\n\r\n                                                                       þ\u0011\u00035180284360-18\r\n\r\nDodavatel: PHOENIX lékárenský velkoobchod, s.r.o. ,ý\u000345359326\r\n\r\nDoklad: 5180284360-18  Datum: 15.08.2018                               Doklad FNO: P12224-ust\r\n\r\n3ĜHGPČW\u001d\u00031iNXS\u0003+9/3\u000f\u0003,9/3\u000f\u00033=7\u0003D\u0003GRSOĖNĤ\u0003YêåLY\\\r\n\r\nCena celkem bez DPH                              66 899,69 CZK\r\n\r\nCena celkem s DPH                                73 729,71 CZK\r\n\r\nSeznam položek (18x)                                                   Množství\r\nNázev položky                                                              2,0 ks\r\nAPO-IBUPROFEN 400 MG 100 TBL FLM 400MG TBL FLM 100\r\nBETADINE LIQ 1X30ML 100MG/ML DRM SOL 30ML                                20,0 bal\r\nCOLDREX HORKÝ NÁPOJ CITRON S MEDEM POR PLV SOL SCC 10 POR PLV SOL SCC         1,0\r\ndologran vitamin Forte D3 Gold 90g                                            2,0\r\nDONEPEZIL MYLAN 10MG POT.TAB. POR.T 10MG TBL FLM 28\r\nLANTUS SOLOSTAR 100 IU/ML INJ.5X3ML 100U/ML INJ SOL 5X3ML                 4,0 bal\r\nLERIVON 10MG TBL FLM 30 II TBL FLM                                       15,0 bal\r\nLERIVON 30MG TBL FLM 20 TBL FLM\r\nNOVORAPID INJ.1X10ML/1KU 100U/ML INJ SOL 1X10ML                               3,0\r\nNOVORAPID PENFILL 100U/ML INJ.SOL.5 100U/ML INJ SOL 5X3ML                     3,0\r\nODSTRANOVAC PODLOZKY CONVACARE 100KS 100KS                               20,0 bal\r\nOLYNTH 0,1% NAS SPR SOL 1X10ML                                           20,0 bal\r\nPALGOTAL 75 MG/650 MG POR TBL FLM 30 TBL FLM                              3,0 bal\r\nPHARMATON GERIAVIT CPS MOL 100 CPS MOL                                     2,0 ks\r\nTena Skin krém 150ml                                                         20,0\r\nTOUJEO 300 JEDNOTEK/ML SDR INJ SOL 3X1.5ML                                    1,0\r\nVIMPAT 100 MG POR TBL FLM 56X100MG 100MG TBL FLM 56                           1,0\r\nVITAMIN E 100MG GENERICA CPS.50                                              10,0\r\n                                                                         10,0 bal\r\n                                                                          5,0 bal\r\n\r\n                                                                          Mgr. Eva Michalovová\r\n\r\n                                                                       .............................................................\r\n\r\n                                                                                     LÉKÁRNA FNO\r\n                                                                       17. listopadu 1790, OSTRAVA-Poruba\r\n\r\n                                                                                     Tel. 597 374 423\r\n\r\nStr. 1 / 1                                                                  Digitally signed by Mgr.\r\n                                                                            Eva Michalovová\r\n                                                                            Date: 2018.08.16\r\n                                                                            09:50:18 +02:00\r\n\r\n                                                                            Fakultní nemocnice\r\n                                                                            Ostrava - Lékárna\r\n\r\n                                                                       16.8.2018 9:50:15\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:53.6652559+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 3474,
+      "WordCount": 241,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-16T17:36:54.3542004+02:00",
+  "CalculatedPriceWithVATinCZK": 73729.71,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [
+    {
+      "IssueTypeId": 107,
+      "Created": "2018-08-16T17:36:53.6662567+02:00",
+      "Title": "Neplatná cena",
+      "TextDescription": "Rozdíl ceny s DPH a bez DPH neodpovídá žádné sazbě DPH.",
+      "Public": true,
+      "Permanent": false,
+      "Importance": -1,
+      "AffectedParams": [
+        {
+          "Key": "hodnotaVcetneDph",
+          "Value": "73729,71"
+        },
+        {
+          "Key": "hodnotaBezDph",
+          "Value": "66899,69"
+        }
+      ],
+      "AnalyzerType": "HlidacSmluv.Plugin.IssueAnalyzers.Price"
+    }
+  ],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:53.6317326+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "2wrru4m"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:53.6652559+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": -1.0,
+  "Id": "6432567",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432567",
+  "casZverejneni": "2018-08-16T17:30:24+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "2wrru4m",
+      "nazev": "PHOENIX lékárenský velkoobchod, s.r.o.",
+      "ico": "45359326",
+      "adresa": null,
+      "utvar": null
+    }
+  ],
+  "predmet": "Nákup HVLP, IVLP, PZT a doplňků výživy",
+  "datumUzavreni": "2018-08-15T00:00:00",
+  "cisloSmlouvy": "5180284360-18",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}
