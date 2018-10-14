@@ -1,0 +1,99 @@
+{
+  "identifikator": {
+    "idSmlouvy": "5968635",
+    "idVerze": "6432583"
+  },
+  "schvalil": null,
+  "hodnotaBezDph": 158799.65,
+  "hodnotaVcetneDph": 174679.65,
+  "ciziMena": null,
+  "platnyZaznam": true,
+  "PravniRamec": 2,
+  "Prilohy": [
+    {
+      "FileMetadata": null,
+      "data": null,
+      "nazevSouboru": "Potvrzenka_180821624-18.pdf",
+      "hash": {
+        "algoritmus": "sha256",
+        "Value": "ec129dcfbb33c397086bb0c2e9f6e76e92cfc699a514711c4bdd74e70674555c"
+      },
+      "odkaz": "https://smlouvy.gov.cz/smlouva/soubor/8700067/Potvrzenka_180821624-18.pdf",
+      "DatlClassification": null,
+      "PlainTextContent": "                      Potvrzení objednávky                          3RWYU]HQND\u0003þ\u0011\u0003180821624-18\r\n\r\n                                                             þ\u0011\u0003180821624-18\r\n\r\nDodavatel: AMGEN s.r.o. ,ý\u000327117804\r\n\r\nDoklad: 180821624-18                      Datum: 16.08.2018  Doklad FNO: P12306-ust\r\n\r\n3ĜHGPČW\u001d\u00031iNXS\u0003+9/3\u000f\u0003,9/3\u000f\u00033=7\u0003D\u0003GRSOĖNĤ\u0003YêåLY\\\r\n\r\nCena celkem bez DPH                       158 799,65 CZK\r\n\r\nCena celkem s DPH                         174 679,65 CZK\r\n\r\nSeznam položek (2x)                                          Množství\r\nNázev položky                                                       5,0\r\nKYPROLIS 10mg inf.plv 10MG INF PLV SOL 1                            5,0\r\nKYPROLIS 60 MG IVN INF PLV SOL 1X60MG\r\n\r\n                                                               PhMr. Marta Kollárová\r\n\r\n                                                             .............................................................\r\n\r\n                                                                           LÉKÁRNA FNO\r\n                                                             17. listopadu 1790, OSTRAVA-Poruba\r\n\r\n                                                                           Tel. 597 374 423\r\n\r\nStr. 1 / 1                                                          Digitally signed by Mgr.\r\n                                                                    Marta Kollárová\r\n                                                                    Date: 2018.08.16\r\n                                                                    15:05:56 +02:00\r\n\r\n                                                                    Fakultní nemocnice\r\n                                                                    Ostrava - Lékárna\r\n\r\n                                                             16.8.2018 15:05:54\r\n",
+      "PlainTextContentQuality": 3,
+      "LastUpdate": "2018-08-16T17:36:53.1038332+02:00",
+      "LocalCopy": null,
+      "ContentType": "application/pdf",
+      "Lenght": 1839,
+      "WordCount": 89,
+      "Pages": 0,
+      "EnoughExtractedText": true
+    }
+  ],
+  "LastUpdate": "2018-08-20T14:13:39.9641441+02:00",
+  "CalculatedPriceWithVATinCZK": 174679.65,
+  "CalcutatedPriceQuality": 1,
+  "Issues": [],
+  "Enhancements": [
+    {
+      "Created": "2018-08-16T17:36:53.0569569+02:00",
+      "Title": "Doplněna datová schránka smluvní strany",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prijemce[0].datovaSchranka",
+        "PreviousValue": "",
+        "NewValue": "qizc2wg"
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.AddMissingData"
+    },
+    {
+      "Created": "2018-08-16T17:36:53.1038332+02:00",
+      "Title": "Text přílohy extrahován přímo z dokumentu",
+      "Description": "",
+      "Changed": {
+        "ParameterName": "item.Prilohy[0].PlainTextContent",
+        "PreviousValue": "",
+        "NewValue": ""
+      },
+      "Public": true,
+      "EnhancerType": "HlidacSmluv.Plugin.Enhancers.TextMiner"
+    }
+  ],
+  "ConfidenceValue": 0.0,
+  "Id": "6432583",
+  "odkaz": "https://smlouvy.gov.cz/smlouva/6432583",
+  "casZverejneni": "2018-08-16T17:30:25+02:00",
+  "VkladatelDoRejstriku": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Platce": {
+    "datovaSchranka": "u2nmpm2",
+    "nazev": "Fakultní nemocnice Ostrava",
+    "ico": "00843989",
+    "adresa": " ,  17. listopadu 1790  708 52 Ostrava-Poruba, ",
+    "utvar": null
+  },
+  "Prijemce": [
+    {
+      "datovaSchranka": "qizc2wg",
+      "nazev": "AMGEN s.r.o.",
+      "ico": "27117804",
+      "adresa": null,
+      "utvar": null
+    }
+  ],
+  "predmet": "Nákup HVLP, IVLP, PZT a doplňků výživy",
+  "datumUzavreni": "2018-08-16T00:00:00",
+  "cisloSmlouvy": "180821624-18",
+  "navazanyZaznam": null,
+  "souvisejiciSmlouvy": null,
+  "SVazbouNaPolitiky": null,
+  "SVazbouNaPolitikyNedavne": false,
+  "SVazbouNaPolitikyAktualni": false
+}
